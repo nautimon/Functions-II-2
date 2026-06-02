@@ -6,7 +6,7 @@ var total = 0;
 
 // Each time we call add, we want to add x to our total
 function add (x) {
- var total = total + x;
+     total = total + x;
   
 }
 
